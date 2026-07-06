@@ -1,0 +1,28 @@
+
+h1 {
+	color: #84a9c0;
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+	color: #6a66a3;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+	color: #b3cbb9;
+	background-color: #542e71;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 20px;
+}
+
+body {
+	background-color: #ddd8b8;
+}
+
+a {
+	color: #b3cbb9;
+}
